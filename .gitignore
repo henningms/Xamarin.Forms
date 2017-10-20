@@ -48,3 +48,5 @@ Xamarin.Forms.ControlGallery.Android/Properties/MapsKey.cs
 *.tss
 *.bak
 *.nuget.targets
+Xamarin.FlexLayoutEngine.Yoga.nuget.props
+Xamarin.FlexLayoutEngine.Yoga.csproj.nuget.cache

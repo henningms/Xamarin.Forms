@@ -13,7 +13,7 @@ namespace Xamarin.Forms.Platform.iOS
 				case TextAlignment.End:
 					return UITextAlignment.Right;
 				default:
-					return UITextAlignment.Left;
+					return UITextAlignment.Natural;
 			}
 		}
 	}
